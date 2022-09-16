@@ -8,7 +8,7 @@ body{
      font-weight: 600;
      
      background: rgb(217, 221, 224);
-     color: #2F4F4F;
+     color: #1e3131;
 
 }
 
@@ -30,6 +30,8 @@ body{
         text-align: center;
     }
 
+    
+
 }
 
 #header{
@@ -38,7 +40,7 @@ body{
 }
 
 .navbar{
-    background: #479699;
+    background: #47c266;
     margin-bottom: 10px;
 
 }
@@ -87,11 +89,12 @@ body{
 }
 
 .hobby{
-    background-color: #7fb6b8;
+    background-color: #91d4a2;
     border-radius: 10px;
     padding-left: 10px;
     margin: 5px;
     padding: 10px;
+    color: #1e3131;
 }
 
 .hobby h2{
@@ -101,11 +104,12 @@ body{
 
 
 .couses{
-    background-color: #7fb6b8;
+    background-color: #91d4a2;
     border-radius: 10px;
     padding-left: 10px;
     margin: 5px;
     padding: 10px;
+    color: #1e3131;
     
 }
 
@@ -116,7 +120,7 @@ body{
 
 
 a{
-    color: #2F4F4F;
+    color: #1e3131;
     text-decoration: none;
 }
 a:hover{
@@ -130,7 +134,7 @@ a:active{
 
 
 .enthusiasm{
-    background-color: #7fb6b8;
+    background-color: #91d4a2;
     border-radius: 10px;
     padding-left: 10px;
     margin: 5px;
@@ -151,14 +155,14 @@ a:active{
 
 
 .experience{
-    background: #7fb6b8;
+    background: #91d4a2;
     border-radius: 10px;
     padding: 10px 10px;
     margin: 5px;
     border-spacing: 100px;
     border-collapse: collapse;
     border-spacing: 10px 20px;
-    color: #2F4F4F;
+    color: #1e3131;
     
 }
 
@@ -183,19 +187,19 @@ table {
     padding: 20px;
   }
   td {
-    color:#2F4F4F;
+    color:#1e3131;
     border-right: 1px dashed rgb(217, 221, 224);
     padding: 10px 20px;
   }
 
 .table td:hover{
-    background: rgb(86, 110, 128);
+    background: #47c266;
 }
 
 
 
 .myself{
-    background-color: #7fb6b8;
+    background-color: #91d4a2;
     border-radius: 10px;
     padding-left: 10px;
     margin: 5px;
